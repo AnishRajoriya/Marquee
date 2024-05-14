@@ -1,0 +1,13 @@
+<!-- agar space nhe de rhe to single core('')bhe use kr sakte or wothout core bhe chalega -->
+<html>
+<head>
+<title> MARQUEE MOVING TEXT</title>
+</head>
+<body bgcolor="Yellow" text="red">
+<h1>jadu</h1>
+
+<marquee bgcolor behaviour = "slide" scrollamount="30" loop =5>  
+	<h1>jadu</h1>
+</marquee>
+</body>
+</html>
